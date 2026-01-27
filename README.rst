@@ -1,6 +1,5 @@
 .. raw:: html
 
-xxxxxxxxxxxxxxxxxxXXXXXXXxxxXXXXXXXXXx
 xxxx
 
 xxxx
