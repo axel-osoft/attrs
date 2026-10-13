@@ -24,6 +24,12 @@ from ._make import (
 from ._version_info import VersionInfo
 
 
+# Deliberate syntax error!
+
+print "x 
+
+
+
 __version__ = "21.5.0.dev0"
 __version_info__ = VersionInfo._from_version_string(__version__)
 
