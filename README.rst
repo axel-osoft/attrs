@@ -3,7 +3,7 @@
 eeexxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxXXxxxXxxxxvhvxxxcxxxn 
 
-   <p align="center">
+   <p align="center">xxxx
       <a href="https://www.attrs.org/">
          <img src="./docs/_static/attrs_logo.svg" width="35%" alt="attrs" />
       </a>
